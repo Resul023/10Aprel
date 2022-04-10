@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\10Aprel\10Aprel\10Aprel\bin\Debug\netcoreapp3.1\10Aprel.exe
+C:\Users\User\Desktop\10Aprel\10Aprel\10Aprel\bin\Debug\netcoreapp3.1\10Aprel.deps.json
+C:\Users\User\Desktop\10Aprel\10Aprel\10Aprel\bin\Debug\netcoreapp3.1\10Aprel.runtimeconfig.json
+C:\Users\User\Desktop\10Aprel\10Aprel\10Aprel\bin\Debug\netcoreapp3.1\10Aprel.runtimeconfig.dev.json
+C:\Users\User\Desktop\10Aprel\10Aprel\10Aprel\bin\Debug\netcoreapp3.1\10Aprel.dll
+C:\Users\User\Desktop\10Aprel\10Aprel\10Aprel\bin\Debug\netcoreapp3.1\10Aprel.pdb
+C:\Users\User\Desktop\10Aprel\10Aprel\10Aprel\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\User\Desktop\10Aprel\10Aprel\10Aprel\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\User\Desktop\10Aprel\10Aprel\10Aprel\obj\Debug\netcoreapp3.1\10Aprel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\10Aprel\10Aprel\10Aprel\obj\Debug\netcoreapp3.1\10Aprel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\10Aprel\10Aprel\10Aprel\obj\Debug\netcoreapp3.1\10Aprel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\10Aprel\10Aprel\10Aprel\obj\Debug\netcoreapp3.1\10Aprel.AssemblyInfo.cs
+C:\Users\User\Desktop\10Aprel\10Aprel\10Aprel\obj\Debug\netcoreapp3.1\10Aprel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\10Aprel\10Aprel\10Aprel\obj\Debug\netcoreapp3.1\10Aprel.csproj.CopyComplete
+C:\Users\User\Desktop\10Aprel\10Aprel\10Aprel\obj\Debug\netcoreapp3.1\10Aprel.dll
+C:\Users\User\Desktop\10Aprel\10Aprel\10Aprel\obj\Debug\netcoreapp3.1\10Aprel.pdb
+C:\Users\User\Desktop\10Aprel\10Aprel\10Aprel\obj\Debug\netcoreapp3.1\10Aprel.genruntimeconfig.cache
